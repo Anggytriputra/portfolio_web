@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Science Portfolio on AnggyTriputra</title>
+    <link>https://anggytriputra.github.io/portfolio_web/</link>
+    <description>Recent content in Data Science Portfolio on AnggyTriputra</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 22 May 2022 10:58:08 -0400</lastBuildDate><atom:link href="https://anggytriputra.github.io/portfolio_web/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 1: Stroke Prediction in Data Science with Model Classification:</title>
+      <link>https://anggytriputra.github.io/portfolio_web/post/project-1/</link>
+      <pubDate>Sun, 22 May 2022 10:58:08 -0400</pubDate>
+      
+      <guid>https://anggytriputra.github.io/portfolio_web/post/project-1/</guid>
+      <description>Globally, stroke is the second leading cause of death and the third leading cause of disability. One in four people are in danger of stroke in their lifetime. Lifestyle risk factors for stroke include being overweight or obese, physical inactivity, tobacco use and alcohol abuse. Medical risk factors include high blood pressure, high cholesterol, diabetes and a personal or family history of stroke or heart attack. An estimated 70% of strokes occur in low- and middle-income countries, which also account for 87% of stroke-related deaths and disability-adjusted life years.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://anggytriputra.github.io/portfolio_web/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://anggytriputra.github.io/portfolio_web/about/</guid>
+      <description>Data Science is my passion. My name is Anggy Tri Anugrah Saputra, since the first time I attended Data Science Training, I admit that I like this role. I switched to data science from a Chemical Engineering background. when I first started my journey into this field. I was so lost, that I decided to study harder. and finally, I get intuition. and I hope to find more friends in this field to collaborate on future Data Science projects.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://anggytriputra.github.io/portfolio_web/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://anggytriputra.github.io/portfolio_web/contact/</guid>
+      <description>Follow me on these social media platform.
+Platform URL LinkedIn: https://www.linkedin.com/in/anggytriputra27/ GitHub: https://github.com/Anggytriputra Instagram: https://www.instagram.com/anggytri.27/ Facebook: https://web.facebook.com/anggytrianugrah.saputra Twitter: https://twitter.com/anggysaputra27 </description>
+    </item>
+    
+    <item>
+      <title>Project 2: Coming Soon!!!:</title>
+      <link>https://anggytriputra.github.io/portfolio_web/post/projects-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://anggytriputra.github.io/portfolio_web/post/projects-2/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
